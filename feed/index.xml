@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>restaurant-0123</title>
+	<title>Täby Restaurant</title>
 	<atom:link href="https://vancuongngo.github.io/restaurant-01/feed/" rel="self" type="application/rss+xml" />
 	<link>https://vancuongngo.github.io/restaurant-01/</link>
 	<description></description>
-	<lastBuildDate>Sun, 06 Oct 2024 07:42:49 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 13 Oct 2024 11:50:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>https://vancuongngo.github.io/restaurant-01/wp-content/uploads/2024/10/Bild-3-150x150.jpg</url>
-	<title>restaurant-0123</title>
+	<url>https://vancuongngo.github.io/restaurant-01/wp-content/uploads/2024/10/file-150x150.webp</url>
+	<title>Täby Restaurant</title>
 	<link>https://vancuongngo.github.io/restaurant-01/</link>
 	<width>32</width>
 	<height>32</height>
