@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Täby Restaurant</title>
+	<title>Viet Flavors</title>
 	<atom:link href="https://vietflavors.se/feed/" rel="self" type="application/rss+xml" />
 	<link>https://vietflavors.se/</link>
 	<description></description>
-	<lastBuildDate>Sun, 13 Oct 2024 12:09:52 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 08 Dec 2024 08:57:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 
 <image>
-	<url>https://vietflavors.se/wp-content/uploads/2024/10/file-150x150.webp</url>
-	<title>Täby Restaurant</title>
+	<url>https://vietflavors.se/wp-content/uploads/2024/10/Final-2-150x150.webp</url>
+	<title>Viet Flavors</title>
 	<link>https://vietflavors.se/</link>
 	<width>32</width>
 	<height>32</height>
